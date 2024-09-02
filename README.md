@@ -27,6 +27,10 @@ In War of Leaders, players command armies of Generals, Captains, Tanks, and Sold
 * Large table or floor space
 * Obstacles (optional)
 
+**Feel free to use non-standard pieces for the game, such as buttons, chess pieces, or any other objects that can represent the different units. The goal is to have fun and be able to play immediately, even with limited resources.** 
+
+While colorful pieces and a nicely laid-out board can enhance the experience, the simplicity of the rules allows for quick and easy setup, ensuring that two players can start a game anytime, anywhere!
+
 **Setup:**
 
 1. **Player Count:**  Unlimited 
@@ -36,19 +40,22 @@ In War of Leaders, players command armies of Generals, Captains, Tanks, and Sold
 
 **Gameplay:**
 
-1. **Turns:** Players take turns in the order decided.
-2. **Action Declaration:** At the start of their turn, the player declares "Attack" or "Move". If no declaration is made, it defaults to "Move."
+1. **Turns:** Players take turns in the order decided at the beginning of the game, moving clockwise around the table.
+2. **Action Declaration:** At the start of their turn, a player can declare either "Attack" or "Move". If no declaration is made, their turn defaults to a "Move" action.
 3. **Dice Roll 1:** The player rolls the first dice.
     * **Movement:** 
         * The number rolled is multiplied by the Movement Factor.
-        * The player can move any single piece or a group led by a General/Captain this distance in any straight line direction (forward, backward, diagonal), as long as there are no curves.
-        * Partial movement is allowed, but any unused movement is lost.
+        * The player can move any single piece or a group led by a General/King or Captain this distance in any straight line direction (forward, backward, diagonal), as long as there are no curves.
+        * Pieces must move the full distance rolled or not move at all. 
     * **Attack:** 
         * Attacks can only be made on targets within the line of sight.
         * The attack range is the Movement Factor multiplied by 2 (or 3 for Tanks).
         * The player rolls the second dice.
-        * Even Result: Attack is successful. The player can remove ONE opponent's piece within the attack range.
-        * Odd Result: Attack fails. 
+        * **Even Result:** Attack is successful. 
+            * If a Captain is attacked, they are removed from the game and any pieces they were leading now move independently, requiring a separate dice roll for each piece's movement.
+            * If the King is attacked, that player is eliminated from the game.
+            * Otherwise, the player can remove ONE opponent's piece (other than a King or Captain) within the attack range.
+        * **Odd Result:** Attack fails. 
 
 **Winning:**
 
@@ -66,14 +73,8 @@ In War of Leaders, players command armies of Generals, Captains, Tanks, and Sold
 
 * Line of Sight: Obstacles block attacks. Ensure a clear path between the attacker and the target.
 * Straight Movement: Pieces can only move in straight lines (including diagonals), no curves allowed
-* Partial Movement: Players can choose to move a piece less than the full distance rolled, but any remaining movement is forfeited for that turn
-* Full Movement: If a player chooses to move a piece, they must use the entire movement distance rolled or opt for partial movement.
+* Full Movement: If a player chooses to move a piece, they must use the entire movement distance rolled or opt not to move at all
 * Free Movement Direction: Pieces can move in any straight line direction, including backward.
-
-**Optional Rules/Clarifications:**
-
-* Terrain: Consider adding rules for different terrain types (e.g., difficult terrain slows movement)
-* Special Abilities: You could give the General/King, Captains, or other pieces unique abilities
 
 **Remember:**
 
@@ -82,16 +83,15 @@ In War of Leaders, players command armies of Generals, Captains, Tanks, and Sold
 
 ## License
 
-This game is released under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and distribute this game for any purpose, even commercially.
+This game is released under the [Creative Commons Attribution (CC BY) 4.0 International license](https://creativecommons.org/licenses/by/4.0/). You are free to:
 
-## Contributions
+* **Share:** copy and redistribute the material in any medium or format
+* **Adapt:** remix, transform, and   
+ build upon the material for any purpose, even commercially.
 
-Contributions, modifications, and expansions to the game are welcome! Feel free to fork this repository and share your creations with the community.
+**Under the following terms:**
+
+* **Attribution:** You must give appropriate credit,   
+ provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.   
 
 **Let the War of Leaders begin!**
-
-**Please note:** 
-
-* You may also want to add a section for "Downloading the Game" with links to any necessary files (rulebook, printable components, etc.). 
-
-Let me know if you have any other questions or need further assistance!
